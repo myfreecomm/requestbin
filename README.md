@@ -1,16 +1,13 @@
-# We have discontinued the publicly hosted version of RequestBin due to ongoing abuse that made it very difficult to keep the site up reliably. Please see instructions below for setting up your own self-hosted instance.
+# RequestBin
 
-Originally Created by [Jeff Lindsay](http://progrium.com)
+Fork of https://github.com/Runscope/requestbin, originally created by [Jeff Lindsay](http://progrium.com). It was deployed and supported by Runscope, but they "discontinued the publicly hosted version of RequestBin due to ongoing abuse that made it very difficult to keep the site up reliably".
 
 License
 -------
 MIT
 
-
 Looking to self-host?
 =====================
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Deploy your own instance using Heroku
 Create a Heroku account if you haven't, then grab the RequestBin source using git:
